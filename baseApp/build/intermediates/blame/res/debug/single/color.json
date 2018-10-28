@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\color\\btn_common_text.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\color\\btn_common_text.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\color\\textcolor_primary_white_radio.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\color\\textcolor_primary_white_radio.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\color\\textcolor_primary_white.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\color\\textcolor_primary_white.xml"
+    }
+]

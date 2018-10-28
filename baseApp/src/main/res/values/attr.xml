@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 
+    <declare-styleable name="ToggleSwitchOptions">
+        <attr name="toggleWidth"        format="dimension"/>
+        <attr name="textToggleCenter"   format="string" localization="suggested" />
+        <attr name="textToggleLeft"     format="string" localization="suggested" />
+        <attr name="textToggleRight"    format="string" localization="suggested" />
+        <attr name="activeBgColor"      format="color"/>
+        <attr name="activeTextColor"    format="color"/>
+        <attr name="inactiveBgColor"    format="color"/>
+        <attr name="inactiveTextColor"  format="color"/>
+        <attr name="separatorColor"     format="color"/>
+        <attr name="android:textSize"/>
+    </declare-styleable>
+     -->
+  
+  <declare-styleable name="easy_flip_view">
+        <attr name="flipOnTouch" format="boolean"/>
+        <attr name="flipDuration" format="integer"/>
+        <attr name="flipEnabled" format="boolean"/>
+    </declare-styleable>
+    
+    <declare-styleable name="FlexboxLayout">
+        <attr name="flexDirection">
+            <enum name="row" value="0" />
+            <enum name="row_reverse" value="1" />
+            <enum name="column" value="2" />
+            <enum name="column_reverse" value="3" />
+        </attr>
+
+        <attr name="flexWrap" >
+            <enum name="nowrap" value="0" />
+            <enum name="wrap" value="1" />
+            <enum name="wrap_reverse" value="2" />
+        </attr>
+
+        <!--
+            Omitting flex-flow property since it's reflected in the parent flex container.
+            Set the flexDirection and/or flexWrap to the parent flex container explicitly if you
+            want to use the flex-flow similar way to the web.
+         -->
+
+        <attr name="justifyContent" >
+            <enum name="flex_start" value="0" />
+            <enum name="flex_end" value="1" />
+            <enum name="center" value="2" />
+            <enum name="space_between" value="3" />
+            <enum name="space_around" value="4" />
+        </attr>
+
+        <attr name="alignItems" >
+            <enum name="flex_start" value="0" />
+            <enum name="flex_end" value="1" />
+            <enum name="center" value="2" />
+            <enum name="baseline" value="3" />
+            <enum name="stretch" value="4" />
+        </attr>
+
+        <attr name="alignContent" >
+            <enum name="flex_start" value="0" />
+            <enum name="flex_end" value="1" />
+            <enum name="center" value="2" />
+            <enum name="space_between" value="3" />
+            <enum name="space_around" value="4" />
+            <enum name="stretch" value="5" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="FlexboxLayout_Layout">
+        <attr name="layout_order" format="integer" />
+
+        <!-- Negative numbers are invalid. -->
+        <attr name="layout_flexGrow" format="float" />
+
+        <!-- Negative numbers are invalid. -->
+        <attr name="layout_flexShrink" format="float" />
+
+        <!--
+            The initial length in a percentage format relative to its parent. This is similar to the
+            flex-basis property in the original CSS specification.
+            (https://www.w3.org/TR/css-flexbox-1/#flex-basis-property)
+            But unlike the flex-basis property, this attribute only accepts a value in fraction
+            (percentage), whereas flex-basis property accepts width values such as 1em, 10px and
+            the 'content' string.
+            But specifying initial fixed width values can be done by specifying width values in
+            layout_width (or layout_height, varies depending on the flexDirection). Also the same
+            effect can be done by specifying "wrap_contnet" in layout_width (or layout_height) if
+            developers want to achieve the same effect as 'content'.
+            Thus, this attribute only accepts fraction values, which can't be done through
+            layout_width (or layout_height) for simplicity.
+        -->
+        <attr name="layout_flexBasisPercent" format="fraction" />
+
+        <!--
+            Omitting flex property since it's a shorthand for layout_flexGrow and layout_flexShrink
+            and layout_percentInParent (flex-basis in the original CSS spec).
+        -->
+
+        <attr name="layout_alignSelf" >
+            <enum name="auto" value="-1" />
+            <!-- The values below need to match the values of alignItems -->
+            <enum name="flex_start" value="0" />
+            <enum name="flex_end" value="1" />
+            <enum name="center" value="2" />
+            <enum name="baseline" value="3" />
+            <enum name="stretch" value="4" />
+        </attr>
+    </declare-styleable>
+    
+    <declare-styleable name="ZDepthShadowLayout">
+        <attr name="z_depth" format="enum">
+            <enum name="z_depth0" value="0" />
+            <enum name="z_depth1" value="1" />
+            <enum name="z_depth2" value="2" />
+            <enum name="z_depth3" value="3" />
+            <enum name="z_depth4" value="4" />
+            <enum name="z_depth5" value="5" />
+        </attr>
+        <attr name="z_depth_shape" format="enum">
+            <enum name="rect" value="0" />
+            <enum name="oval" value="1" />
+        </attr>
+        <attr name="z_depth_padding" format="enum">
+            <enum name="z_depth0" value="0" />
+            <enum name="z_depth1" value="1" />
+            <enum name="z_depth2" value="2" />
+            <enum name="z_depth3" value="3" />
+            <enum name="z_depth4" value="4" />
+            <enum name="z_depth5" value="5" />
+        </attr>
+        <attr name="z_depth_paddingLeft" format="enum">
+            <enum name="z_depth0" value="0" />
+            <enum name="z_depth1" value="1" />
+            <enum name="z_depth2" value="2" />
+            <enum name="z_depth3" value="3" />
+            <enum name="z_depth4" value="4" />
+            <enum name="z_depth5" value="5" />
+        </attr>
+        <attr name="z_depth_paddingTop" format="enum">
+            <enum name="z_depth0" value="0" />
+            <enum name="z_depth1" value="1" />
+            <enum name="z_depth2" value="2" />
+            <enum name="z_depth3" value="3" />
+            <enum name="z_depth4" value="4" />
+            <enum name="z_depth5" value="5" />
+        </attr>
+        <attr name="z_depth_paddingRight" format="enum">
+            <enum name="z_depth0" value="0" />
+            <enum name="z_depth1" value="1" />
+            <enum name="z_depth2" value="2" />
+            <enum name="z_depth3" value="3" />
+            <enum name="z_depth4" value="4" />
+            <enum name="z_depth5" value="5" />
+        </attr>
+        <attr name="z_depth_paddingBottom" format="enum">
+            <enum name="z_depth0" value="0" />
+            <enum name="z_depth1" value="1" />
+            <enum name="z_depth2" value="2" />
+            <enum name="z_depth3" value="3" />
+            <enum name="z_depth4" value="4" />
+            <enum name="z_depth5" value="5" />
+        </attr>
+        <attr name="z_depth_animDuration" format="integer" />
+        <attr name="z_depth_doAnim" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="MaterialFavoriteButton">
+        <attr name="mfb_animate_favorite" format="boolean" />
+        <attr name="mfb_animate_unfavorite" format="boolean" />
+        <attr name="mfb_padding" format="integer" />
+        <attr name="mfb_favorite_image" format="integer" />
+        <attr name="mfb_not_favorite_image" format="integer" />
+        <attr name="mfb_rotation_duration" format="integer" />
+        <attr name="mfb_rotation_angle" format="integer" />
+        <attr name="mfb_bounce_duration" format="integer" />
+        <attr name="mfb_color" format="enum">
+            <enum name="black" value="0" />
+            <enum name="white" value="1" />
+        </attr>
+        <attr name="mfb_type" format="enum">
+            <enum name="star" value="0" />
+            <enum name="heart" value="1" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="TagFlowLayout">
+
+        <!--
+        max_select：-1为不限制选择数量，>=1的数字为控制选择tag的数量 
+        multi_suppout 是否开启多选的支持，默认为true 
+        -->
+        <attr name="multi_suppout" format="boolean"></attr>
+        <attr name="max_select" format="integer"></attr>
+    </declare-styleable>
+    <declare-styleable name="WhorlLoader">
+
+        <!--
+        <attr name="smallWhorlColor" format="color" />
+        <attr name="middleWhorlColor" format="color" />
+        <attr name="bigWhorlColor" format="color" />
+        -->
+
+        <attr name="circle_colors" format="string" />
+        <attr name="circle_speed" format="integer" />
+        <attr name="parallax">
+            <enum name="fast" value="1" />
+            <enum name="medium" value="0" />
+            <enum name="slow" value="2" />
+        </attr>
+        <attr name="sweepAngle" format="float" />
+        <attr name="strokeWidth" format="float" />
+    </declare-styleable>
+    <declare-styleable name="SpinnerLoader">
+        <attr name="point_color" format="color" />
+        <attr name="isdynamic" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="RotateLoader">
+        <attr name="loader_width" format="dimension" />
+        <attr name="loader_color" format="color" />
+        <attr name="shadow_position" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="TagGroup">
+
+        <!-- Whether the tag group is in append mode. -->
+        <attr name="atg_isAppendMode" format="boolean" />
+        <!-- If the tag group is in append mode, what the hint of input tag. -->
+        <attr name="atg_inputHint" format="string" />
+
+        <!-- The tag view outline border color. -->
+        <attr name="atg_borderColor" format="color" />
+        <!-- The tag view text color. -->
+        <attr name="atg_textColor" format="color" />
+        <!-- The tag view background color. -->
+        <attr name="atg_backgroundColor" format="color" />
+
+        <!-- The dash outline border color, when in append mode. -->
+        <attr name="atg_dashBorderColor" format="color" />
+        <!-- The input tag hint text color, when in append mode. -->
+        <attr name="atg_inputHintColor" format="color" />
+        <!-- The input tag type text color, when in append mode. -->
+        <attr name="atg_inputTextColor" format="color" />
+
+        <!-- The checked tag view outline border color. -->
+        <attr name="atg_checkedBorderColor" format="color" />
+        <!-- The checked text color. -->
+        <attr name="atg_checkedTextColor" format="color" />
+        <!-- The checked marker color. -->
+        <attr name="atg_checkedMarkerColor" format="color" />
+        <!-- The checked tag view background color. -->
+        <attr name="atg_checkedBackgroundColor" format="color" />
+
+        <!-- The tag view background color, when the tag view is being pressed. -->
+        <attr name="atg_pressedBackgroundColor" format="color" />
+
+        <!-- The tag view outline border stroke width. -->
+        <attr name="atg_borderStrokeWidth" format="dimension" />
+        <!-- The tag view text size. -->
+        <attr name="atg_textSize" format="dimension" />
+        <attr name="atg_horizontalSpacing" format="dimension" />
+        <attr name="atg_verticalSpacing" format="dimension" />
+        <attr name="atg_horizontalPadding" format="dimension" />
+        <attr name="atg_verticalPadding" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="TagGroup_Themes">
+        <attr name="tagGroupStyle" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="SlideSwitch">
+        <attr name="themeColor" format="color" />
+        <attr name="isOpen" format="boolean" />
+        <attr name="shape">
+            <enum name="rect" value="1" />
+            <enum name="circle" value="2" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="TabsLayout">
+        <attr name="tabsIndicatorColor" format="color" />
+        <attr name="tabsUnderlineColor" format="color" />
+        <attr name="tabsDividerColor" format="color" />
+        <attr name="tabsIndicatorHeight" format="dimension" />
+        <attr name="tabsUnderlineHeight" format="dimension" />
+        <attr name="tabsDividerPadding" format="dimension" />
+        <attr name="tabsTabPaddingLeftRight" format="dimension" />
+        <attr name="tabsScrollOffset" format="dimension" />
+        <attr name="tabsTabBackground" format="reference" />
+        <attr name="tabsShouldExpand" format="boolean" />
+        <attr name="tabsTextAllCaps" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="WaveSwipeRefreshLayout">
+        <attr name="waveColor" format="color" />
+    </declare-styleable>
+    <declare-styleable name="NumberProgressBar">
+        <attr name="progress_current" format="integer" />
+        <attr name="progress_max" format="integer" />
+        <attr name="progress_unreached_color" format="color" />
+        <attr name="progress_reached_color" format="color" />
+        <attr name="progress_reached_bar_height" format="dimension" />
+        <attr name="progress_unreached_bar_height" format="dimension" />
+        <attr name="progress_text_size" format="dimension" />
+        <attr name="progress_text_color" format="color" />
+        <attr name="progress_text_offset" format="dimension" />
+        <attr name="progress_text_visibility" format="enum">
+            <enum name="visible" value="0" />
+            <enum name="invisible" value="1" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="Themes">
+        <attr name="numberProgressBarStyle" format="reference" />
+    </declare-styleable>
+
+</resources>

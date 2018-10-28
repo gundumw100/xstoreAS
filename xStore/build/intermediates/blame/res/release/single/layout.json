@@ -1,0 +1,1038 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_image.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_image.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_pay_credit.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_pay_credit.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_remote_management.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_remote_management.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_space_1.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_space_1.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\efp__list_item.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\efp__list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_loc_area_info_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_loc_area_info_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_product_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_product_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_default_error.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_default_error.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_product.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_product.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_time_picker.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\layout\\dialog_time_picker.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_create_document.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_create_document.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_space_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_space_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_simple_create_document.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_simple_create_document.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_mendian_color_child.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_mendian_color_child.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\fragment_main_1.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\fragment_main_1.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_payment_zhanghu.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_payment_zhanghu.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_comm_title.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\layout\\dialog_comm_title.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_trade_detail.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_trade_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_print_ticket.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_print_ticket.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\fragment_main_3.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\fragment_main_3.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_mendian_diaoru_detail.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_mendian_diaoru_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_box.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_box.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_space_detail.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_space_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\simple_dropdown_item_1line.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\simple_dropdown_item_1line.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_pay_wx.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_pay_wx.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_tabs.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_tabs.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_shangpindangan.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_shangpindangan.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_member_jifenguanli.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_member_jifenguanli.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_space_publish.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_space_publish.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_mendian_diaochu_filter.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_mendian_diaochu_filter.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_mendian_diaoru.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_mendian_diaoru.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_document_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_document_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_simple_list_3.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_simple_list_3.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_mendian_diaochu.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_mendian_diaochu.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_custom_error.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_custom_error.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_for_recyclerview.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_for_recyclerview.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\camera.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\layout\\camera.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_pandian_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_pandian_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_member_jifentiaozheng.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_member_jifentiaozheng.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_fitting_detail.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_fitting_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_setting_printer.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_setting_printer.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_create_document.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_create_document.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_trade_local_detail.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_trade_local_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_member_jifenguanli.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_member_jifenguanli.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_shelves_detail_offline.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_shelves_detail_offline.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_payment.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_trade_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_trade_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_product_img.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_product_img.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_document_list_from_server.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_document_list_from_server.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\widget_toggle_switch.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\layout\\widget_toggle_switch.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_caigoukanhuo.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_caigoukanhuo.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_box_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_box_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_shelf_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_shelf_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_summary_erp.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_summary_erp.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_custom_pandiandan_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_custom_pandiandan_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_inventory.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_inventory.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_bill_upload.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_bill_upload.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_check_product_for_caigouruku.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_check_product_for_caigouruku.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_inventory.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_inventory.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\imageselector_main_fragment.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\imageselector_main_fragment.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\efp__grid_item.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\efp__grid_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_payment_type.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_payment_type.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_mine_store_setting.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_mine_store_setting.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_shangpindangan_product_labels_manage.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_shangpindangan_product_labels_manage.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\textview_list_search_param.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\layout\\textview_list_search_param.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_register.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_payment_yongka.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_payment_yongka.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_shangpindangan_product_query_by_sku.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_shangpindangan_product_query_by_sku.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_shangpindangan_product_labels.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_shangpindangan_product_labels.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\actionbar_comm_inventory.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\actionbar_comm_inventory.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\bluetooth_device_name_item.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\bluetooth_device_name_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\efp__new_folder.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\efp__new_folder.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_product_pandian.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_product_pandian.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_for_popupwindow_simple.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_for_popupwindow_simple.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_custom_pandian.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_custom_pandian.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_for_mendiandiaochu.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_for_mendiandiaochu.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_setting_printer.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_setting_printer.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_payment_yongquan.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_payment_yongquan.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_simple_edittext_single.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_simple_edittext_single.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_box_product.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_box_product.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_text_checked.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_text_checked.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_mendian_caigouruku_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_mendian_caigouruku_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_shangpindangan_product_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_shangpindangan_product_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_for_recyclerview_kucun.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_for_recyclerview_kucun.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\fragment_member_register.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\fragment_member_register.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_check_product_for_mendiandiaochu.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_check_product_for_mendiandiaochu.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_space.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_space.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\fragment_fitting.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\fragment_fitting.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_mendian_diaoru_filter.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_mendian_diaoru_filter.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_mendian_caigou_ruku.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_mendian_caigou_ruku.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_for_image.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_for_image.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_member_register.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_member_register.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_shangpindangan_product_query_by_params.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_shangpindangan_product_query_by_params.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_user_birthday.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\layout\\dialog_user_birthday.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_space_publish_result.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_space_publish_result.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_simple_document_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_simple_document_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\popupwindow_space_tags.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\popupwindow_space_tags.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_payment_jifen.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_payment_jifen.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\softupdate_progress.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\layout\\softupdate_progress.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\actionbar_comm.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\layout\\actionbar_comm.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\popupwindow_simple.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\popupwindow_simple.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_member_labels.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_member_labels.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\book_loader.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\layout\\book_loader.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\fragment_product_c.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\fragment_product_c.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\fragment_main_0.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\fragment_main_0.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_shangpindangan_product_detail.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_shangpindangan_product_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_double_date_picker.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_double_date_picker.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_space_0.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_space_0.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_custom_pandiandan.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_custom_pandiandan.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_setting.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_pandian.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_pandian.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\fragment_inventory.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\fragment_inventory.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_mendian_caigou_ruku_second.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_mendian_caigou_ruku_second.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_shoppingcart.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_shoppingcart.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_trade_local_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_trade_local_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_color_picker.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_color_picker.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_user_info.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_user_info.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_mine_business_setting.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_mine_business_setting.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_simple_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_simple_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_verification_code.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_verification_code.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_my_favorites.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_my_favorites.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\imageselector_item_camera.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\imageselector_item_camera.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\imageselector_title_bar.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\imageselector_title_bar.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_offline_document_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_offline_document_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_box_detail.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_box_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\fragment_product_a.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\fragment_product_a.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_member_zhuanshudangan.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_member_zhuanshudangan.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_theme_change.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_theme_change.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_mendian_color_group.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_mendian_color_group.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_for_mendiancaigouruku.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_for_mendiancaigouruku.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_pay_zfb.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_pay_zfb.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\load_more_footer.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\layout\\load_more_footer.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_user_assistant_login.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_user_assistant_login.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_kucun_query_by_sku.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_kucun_query_by_sku.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\imageselector_activity.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\imageselector_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\efp__empty.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\efp__empty.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_mendian_caigouruku_detail.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_mendian_caigouruku_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\fragment_fitting_search.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\fragment_fitting_search.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_member_detail.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_member_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_text.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_text.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_fitting.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_fitting.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_receipt.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_receipt.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\fragment_list_comm.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\layout\\fragment_list_comm.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_inventory_help.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_inventory_help.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_space_comment.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_space_comment.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_space_2.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_space_2.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_inventory.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_inventory.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_shoppingcart.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_shoppingcart.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_for_magic_box.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_for_magic_box.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_member_info.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_member_info.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_setting_printer.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_setting_printer.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_refresh_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_refresh_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_for_fitting_search.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_for_fitting_search.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_goods_detail.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_goods_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\fragment_member_points.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\fragment_member_points.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_image_for_product_detail.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_image_for_product_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_image_gallery.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_image_gallery.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_shangpindangan_product_query_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_shangpindangan_product_query_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\fragment_setting.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_product_query_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_product_query_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_simple_text_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_simple_text_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_image_text.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_image_text.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_simple_number.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_simple_number.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_widget_toggle_switch.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\layout\\item_widget_toggle_switch.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_simple_text_list_2.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_simple_text_list_2.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\fragment_refresh_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\fragment_refresh_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_pandian.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_pandian.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\floatview.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\floatview.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_product_pandian.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_product_pandian.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_summary_erp.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_summary_erp.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_printer_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_printer_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_date_picker.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\layout\\dialog_date_picker.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\textview_list_total_info.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\layout\\textview_list_total_info.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_offline_document_create.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_offline_document_create.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_product_id.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_product_id.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_for_fitting.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_for_fitting.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_for_mendiankucun.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_for_mendiankucun.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_email_list_sender.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_email_list_sender.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_mendian_color.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_mendian_color.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_mendian_spec_group.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_mendian_spec_group.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_pandian_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_pandian_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\fragment_member_info.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\fragment_member_info.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\imageselector_item_image.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\imageselector_item_image.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_discount.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_discount.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\newton_cradle_loader.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\layout\\newton_cradle_loader.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_custom_pandiandan_product.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_custom_pandiandan_product.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_mendian_size.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_mendian_size.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_shangpindangan_product_query_list_by_params.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_shangpindangan_product_query_list_by_params.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_mendian_diaochu_create_second.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_mendian_diaochu_create_second.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_email_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_email_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_magic_box.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_magic_box.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_custom_pandian_upload.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_custom_pandian_upload.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_mendian_kucun_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_mendian_kucun_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_shelves_detail.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_shelves_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_simple_text.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_simple_text.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_bluetooth_device_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_bluetooth_device_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_comment.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_comment.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\fragment_main_2.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\fragment_main_2.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_email_list_sender.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_email_list_sender.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_simple_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_simple_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_refund.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_refund.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_simple_edittext.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_simple_edittext.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\dialog_simple_text_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\dialog_simple_text_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_product_kucun_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_product_kucun_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_image_gallery.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_image_gallery.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\fragment_product_b.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\fragment_product_b.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_mendian_spec_child.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_mendian_spec_child.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_trade_detail.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_trade_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_member_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_member_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_document_detail.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_document_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\custom_progress_dialog.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\layout\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_mendian_diaochu_create.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_mendian_diaochu_create.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_trade_list.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_trade_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_document_upload.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_document_upload.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_caigoukanhuo_create.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_caigoukanhuo_create.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\efp__main_activity.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\efp__main_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\item_for_product.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\item_for_product.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\imageselector_item_folder.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\imageselector_item_folder.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_pay_crash.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_pay_crash.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\layout\\activity_summary.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\layout\\activity_summary.xml"
+    }
+]

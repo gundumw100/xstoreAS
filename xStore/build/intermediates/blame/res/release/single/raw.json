@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\raw\\warning.wav",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\raw\\warning.wav"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\raw\\query.wav",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\raw\\query.wav"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\raw\\success.wav",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\raw\\success.wav"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\raw\\beep.ogg",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\raw\\beep.ogg"
+    }
+]

@@ -1,0 +1,528 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical" >
+
+    <include layout="@layout/actionbar_comm" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="8dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/btn_generateCode"
+                android:layout_marginRight="4dp"
+                android:text="生成编码"
+                style="@style/text_btn"
+                />
+
+            <TextView
+                android:id="@+id/btn_query"
+                android:layout_marginRight="4dp"
+                style="@style/text_btn"
+                android:text="查询"
+                android:visibility="gone"
+                />
+
+            <TextView
+                android:id="@+id/btn_print"
+                android:layout_marginRight="4dp"
+                android:text="打印标签"
+                style="@style/text_btn"
+                />
+            
+            <TextView
+                android:id="@+id/btn_productSku_query"
+                android:layout_marginRight="4dp"
+                android:text="商品编码查询"
+                style="@style/text_btn"
+                />
+            
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/btn_save"
+            android:text="保存"
+            style="@style/text_btn"
+            />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="4dp" >
+
+                <TextView
+                    style="@style/text_tip"
+                    android:text="款号" />
+
+                <TextView
+                    android:id="@+id/tv_productSku"
+                    style="@style/text_field_gray"
+                     />
+
+                <EditText
+                    android:id="@+id/et_productSku"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_edittext"
+                    android:hint="扫描原厂条码"
+                    android:padding="8dp"
+                    android:maxLength="13"
+                    android:inputType="number"
+                    android:layout_marginLeft="4dp"
+                    android:textSize="@dimen/font_middle" />
+
+                <TextView
+                    android:id="@+id/btn_scan"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/scanner"
+                    android:padding="8dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="4dp" >
+
+                <TextView
+                    style="@style/text_tip"
+                    android:textColor="@color/primary"
+                    android:text="名称" />
+
+                <AutoCompleteTextView  
+			        android:id="@+id/et_productName"  
+			        android:layout_width="0dp"  
+			        android:layout_height="wrap_content" 
+			        android:layout_weight="1"
+			        android:singleLine="true"
+                    android:background="@drawable/bg_edittext"
+                    android:padding="8dp"
+                    android:hint="如:男短袖T恤"
+                    android:textSize="@dimen/font_middle"
+                    android:completionThreshold="1"
+                    android:maxLength="10"
+			        />  
+        
+                <EditText
+                    android:id="@+id/et_originalSku"
+                    android:layout_width="96dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_edittext"
+                    android:hint="原厂货号"
+                    android:padding="8dp"
+                    android:maxLength="13"
+                    android:layout_marginLeft="4dp"
+                    android:textSize="@dimen/font_middle" />
+                
+                <ImageView 
+                    android:id="@+id/iv_help_productName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_help24"
+                    android:layout_gravity="center_vertical"
+                    android:padding="10dp" 
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="4dp" >
+
+                <TextView
+                    style="@style/text_tip"
+                    android:text="年份" 
+                    android:textColor="@color/primary"
+                    />
+
+                <TextView
+                    android:id="@+id/tv_year"
+                    style="@style/text_field_gray" />
+
+                <TextView
+                    android:id="@+id/btn_addYear"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/ic_edit32"
+                    android:padding="8dp"
+                    android:textColor="@android:color/white" />
+
+                <TextView
+                    android:id="@+id/tv_brand_tip"
+                    style="@style/text_tip"
+                    android:layout_width="48dp"
+                    android:gravity="center"
+                    android:text="品牌" 
+                    />
+
+                <TextView
+                    android:id="@+id/tv_brand"
+                    style="@style/text_field_gray" 
+                    android:hint="无"
+                    />
+
+                <TextView
+                    android:id="@+id/btn_addBrand"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/ic_edit32"
+                    android:padding="8dp"
+                    android:textColor="@android:color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="4dp" >
+
+                <TextView
+                    android:id="@+id/tv_color_tip"
+                    style="@style/text_tip"
+                    android:textColor="@color/primary"
+                    android:text="颜色" />
+
+                <FrameLayout 
+                    android:layout_width="0dp"
+                	android:layout_height="wrap_content"
+                	android:layout_weight="1"
+                    >
+	                <TextView
+	                    android:id="@+id/tv_color"
+	                    android:layout_width="match_parent"
+	                	android:layout_height="wrap_content"
+	                	android:textColor="@color/grayDark"
+	                	android:background="@drawable/bg_textview_gray_light"
+	                	android:textAppearance="?android:attr/textAppearanceSmall"
+	                	android:padding="8dp"
+	                    android:hint="均色" />
+	                <ImageView
+	                    android:id="@+id/btn_addColorImg"
+	                    android:layout_width="32dp"
+	                    android:layout_height="32dp"
+	                    android:src="@drawable/default_img"
+	                    android:layout_gravity="right|center_vertical"
+	                    android:layout_marginRight="2dp"
+	                    />
+                </FrameLayout>
+                
+                <TextView
+                    android:id="@+id/btn_addColor"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/ic_edit32"
+                    android:padding="8dp"
+                    android:textColor="@android:color/white" />
+                
+                <TextView
+                    style="@style/text_tip"
+                    android:layout_width="48dp"
+                    android:gravity="center"
+                    android:text="类别" />
+
+                <TextView
+                    android:id="@+id/tv_category"
+                    style="@style/text_field_gray" 
+                    android:hint="无"
+                    />
+
+                <TextView
+                    android:id="@+id/btn_addCategory"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/ic_edit32"
+                    android:padding="8dp"
+                    android:textColor="@android:color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="4dp" >
+
+                <TextView
+                    android:id="@+id/tv_size_tip"
+                    style="@style/text_tip"
+                    android:textColor="@color/primary"
+                    android:text="尺码" />
+
+                <TextView
+                    android:id="@+id/tv_size"
+                    style="@style/text_field_gray"
+                    android:hint="均码" />
+
+                <TextView
+                    android:id="@+id/btn_addSize"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/ic_edit32"
+                    android:padding="8dp"
+                    android:textColor="@android:color/white" />
+                
+                <TextView
+                    android:id="@+id/tv_season_tip"
+                    android:layout_width="48dp"
+                    style="@style/text_tip"
+                    android:gravity="center"
+                    android:text="季节" />
+
+                <TextView
+                    android:id="@+id/tv_season"
+                    style="@style/text_field_gray" 
+                    android:hint="全年"
+                    />
+
+                <TextView
+                    android:id="@+id/btn_addSeason"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/ic_edit32"
+                    android:padding="8dp"
+                    android:textColor="@android:color/white" />
+                
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="4dp" >
+
+                <TextView
+                    style="@style/text_tip"
+                    android:text="上架日" />
+
+                <TextView
+                    android:id="@+id/tv_date"
+                    style="@style/text_field_gray" 
+                    android:textSize="@dimen/font_small"
+                    />
+
+                <TextView
+                    android:id="@+id/btn_date"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/ic_edit32"
+                    android:padding="8dp"
+                    android:textColor="@android:color/white" />
+
+                <TextView
+                    style="@style/text_tip"
+                    android:gravity="center"
+                    android:text="更多" />
+
+                <TextView
+                    android:id="@+id/tv_other"
+                    style="@style/text_field_gray" 
+                    android:hint="无"
+                    />
+
+                <TextView
+                    android:id="@+id/btn_other"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/ic_edit32"
+                    android:padding="8dp"
+                    android:textColor="@android:color/white" 
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="4dp" >
+
+                <TextView
+                    style="@style/text_tip"
+                    android:text="成本价" />
+
+                <EditText
+                    android:id="@+id/et_jh_price"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_edittext"
+                    android:inputType="numberDecimal"
+                    android:padding="8dp"
+                    android:maxLength="8"
+                    android:textSize="@dimen/font_middle" 
+                    />
+
+                <TextView
+                    style="@style/text_tip"
+                    android:gravity="center"
+                    android:textColor="@color/primary"
+                    android:text="零售价" />
+
+                <EditText
+                    android:id="@+id/et_ls_price"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_edittext"
+                    android:textSize="@dimen/font_middle" 
+                    android:inputType="numberDecimal"
+                    android:maxLength="8"
+                    android:padding="8dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:visibility="gone"
+                android:padding="4dp" >
+
+                <TextView
+                    style="@style/text_tip"
+                    android:text="厂商" />
+
+                <TextView
+                    android:id="@+id/tv_cs"
+                    style="@style/text_field_gray"
+                    android:hint="自动匹配" 
+                    android:singleLine="true"
+                    />
+
+                <TextView
+                    android:id="@+id/btn_cs"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/ic_edit32"
+                    android:padding="8dp"
+                    android:textColor="@android:color/white" />
+                
+                <TextView
+                    style="@style/text_tip"
+                    android:text="仓位" />
+
+                <TextView
+                    android:id="@+id/tv_cw"
+                    style="@style/text_field_gray" />
+
+                <TextView
+                    android:id="@+id/btn_cw"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/ic_edit32"
+                    android:padding="8dp"
+                    android:textColor="@android:color/white" />
+                
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:visibility="gone"
+                android:padding="4dp" >
+
+                <TextView
+                    style="@style/text_tip"
+                    android:text="装箱数" />
+
+                <EditText
+                    android:id="@+id/et_zxs"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_edittext"
+                    android:padding="8dp"
+                    android:inputType="number"
+                    android:maxLength="8"
+                    android:textSize="@dimen/font_middle" />
+
+                <TextView
+                    style="@style/text_tip"
+                    android:gravity="center"
+                    android:text="计量单位" />
+
+                <TextView
+                    android:id="@+id/tv_jldw"
+                    style="@style/text_field_gray" />
+
+                <TextView
+                    android:id="@+id/btn_jldw"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/ic_edit32"
+                    android:padding="8dp"
+                    android:textColor="@android:color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="4dp" >
+            
+                <TextView
+                    android:layout_width="120dp"
+	                android:layout_height="wrap_content"
+                    style="@style/text_tip"
+                    android:gravity="center"
+                    android:textSize="@dimen/font_middle"
+                    android:text="添加商品图\n(长按可删除重选)" />
+                
+	            <com.widget.flowlayout.FlowLayout
+	                android:id="@+id/flowLayout"
+	                android:layout_width="match_parent"
+	                android:layout_height="wrap_content"
+	                android:layout_gravity="center_horizontal"
+	                android:layout_marginLeft="8dp" 
+	                android:layout_marginRight="8dp" >
+	
+	                <ImageView
+	                    android:id="@+id/iv_addImage"
+	                    android:layout_width="40dp"
+	                    android:layout_height="40dp"
+	                    android:padding="2dp"
+	                    android:scaleType="centerCrop"
+	                    android:src="@drawable/add_image" />
+	            </com.widget.flowlayout.FlowLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

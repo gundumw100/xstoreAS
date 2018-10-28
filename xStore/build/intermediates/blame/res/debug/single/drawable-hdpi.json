@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\efp_light__textfield_disabled_holo.9.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\drawable-hdpi\\efp_light__textfield_disabled_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\efp_dark__textfield_disabled_focused_holo.9.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\drawable-hdpi\\efp_dark__textfield_disabled_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\efp_light__textfield_activated_holo.9.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\drawable-hdpi\\efp_light__textfield_activated_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\efp_dark__textfield_disabled_holo.9.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\drawable-hdpi\\efp_dark__textfield_disabled_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\efp_light__textfield_default_holo.9.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\drawable-hdpi\\efp_light__textfield_default_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\efp_light__list_selector_disabled_holo.9.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\drawable-hdpi\\efp_light__list_selector_disabled_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\efp_light__textfield_focused_holo.9.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\drawable-hdpi\\efp_light__textfield_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\efp_light__list_pressed_holo.9.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\drawable-hdpi\\efp_light__list_pressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\efp_light__list_activated_holo.9.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\drawable-hdpi\\efp_light__list_activated_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\efp_light__textfield_disabled_focused_holo.9.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\drawable-hdpi\\efp_light__textfield_disabled_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\efp_dark__list_activated_holo.9.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\drawable-hdpi\\efp_dark__list_activated_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\efp_light__list_longpressed_holo.9.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\drawable-hdpi\\efp_light__list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\efp_dark__textfield_default_holo.9.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\drawable-hdpi\\efp_dark__textfield_default_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\efp_dark__list_selector_disabled_holo.9.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\drawable-hdpi\\efp_dark__list_selector_disabled_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\efp_dark__textfield_focused_holo.9.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\drawable-hdpi\\efp_dark__textfield_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\efp_dark__textfield_activated_holo.9.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\drawable-hdpi\\efp_dark__textfield_activated_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\efp_dark__list_pressed_holo.9.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\drawable-hdpi\\efp_dark__list_pressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\efp_dark__list_longpressed_holo.9.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\drawable-hdpi\\efp_dark__list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\efp_dark__list_focused_holo.9.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\drawable-hdpi\\efp_dark__list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\efp_light__list_focused_holo.9.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\drawable-hdpi\\efp_light__list_focused_holo.9.png"
+    }
+]

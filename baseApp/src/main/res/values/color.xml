@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#FFD93945</color>
+    <color name="primaryDark">#FFFF3944</color>
+    <color name="primaryLight">#FF553944</color>
+    <color name="grayDark">#FF303030</color>
+    <color name="grayDarkPressed">#FF444444</color>
+    <color name="gray">#FF666666</color>
+    <color name="grayMiddle">#FF999999</color>
+    <color name="grayLight">#FFC0C0C0</color>
+    <color name="grayWhite">#FFE8E8E8</color>
+    <color name="secondary">#FFEFAC2A</color>
+
+    <!-- zxing color -->
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+
+    <!-- SwipeRefreshLayout color -->
+    <color name="scheme_green">#FF00FF00</color>
+    <color name="scheme_yellow">#FFFFFF00</color>
+    <color name="scheme_gray">#FF909090</color>
+    <color name="scheme_red">#FFFF0000</color>
+
+    <!-- effect loading -->
+    <color name="book_loading_frame">#FFD83944</color>
+    <color name="book_loading_page">#ffffff</color>
+
+</resources>

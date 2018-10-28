@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CDFPSKAndroid">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/xStore/libs/CDFPSKAndroid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

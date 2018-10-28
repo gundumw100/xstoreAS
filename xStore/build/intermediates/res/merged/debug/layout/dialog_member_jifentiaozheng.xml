@@ -1,0 +1,132 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/dialog_width"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_light"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="积分调整"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/font_middle" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="会员姓名："
+            android:textColor="@color/grayDark"
+            android:textSize="@dimen/font_middle" />
+        <TextView
+            android:id="@+id/tv_mobile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="手机号码："
+            android:textColor="@color/grayDark"
+            android:textSize="@dimen/font_middle" />
+        <TextView
+            android:id="@+id/tv_userCode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="操作人："
+            android:textColor="@color/grayDark"
+            android:textSize="@dimen/font_middle" />
+
+        <Space
+            android:layout_width="16dp"
+            android:layout_height="16dp" />
+
+        <RadioGroup
+            android:id="@+id/rg"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            >
+            <RadioButton
+                android:id="@+id/rb_add"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="加积分"
+                android:textSize="@dimen/font_middle"
+                android:textColor="@color/grayDark"
+                />
+            <RadioButton
+                android:id="@+id/rb_reduce"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="减积分"
+                android:textSize="@dimen/font_middle"
+                android:textColor="@color/grayDark"
+                />
+        </RadioGroup>
+
+        <EditText
+            android:id="@+id/et_jifen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_edittext"
+            android:inputType="number"
+            android:maxLength="10"
+            android:padding="8dp"
+            android:hint="输入需要加/减的积分"
+            android:maxLines="1"
+            android:textSize="@dimen/font_middle" />
+
+        <Space
+            android:layout_width="16dp"
+            android:layout_height="16dp" />
+
+        <EditText
+            android:id="@+id/et_reseason"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_edittext"
+            android:maxLength="30"
+            android:padding="8dp"
+            android:hint="调整原因"
+            android:lines="3"
+            android:textSize="@dimen/font_middle" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_left"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/bg_btn_gray"
+            android:padding="10dp"
+            android:text="取消"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/font_middle" />
+
+        <Button
+            android:id="@+id/btn_right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/bg_btn_blue"
+            android:padding="10dp"
+            android:text="确定"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/font_middle" />
+    </LinearLayout>
+
+</LinearLayout>

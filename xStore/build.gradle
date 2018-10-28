@@ -1,0 +1,53 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.2"
+
+    defaultConfig {
+        applicationId "com.app.xstore"
+        minSdkVersion 16
+        targetSdkVersion 21
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    aaptOptions{
+        cruncherEnabled = false
+        useNewCruncher = false
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile project(':baseApp')
+    compile 'com.google.code.gson:gson:1.7.1'
+    //compile files('libs/BaiduLBS_Android.jar')
+    compile files('libs/BarcodeScanWrapper.jar')
+    compile files('libs/bluetooth.jar')
+    compile files('libs/CDFPSKAndroid.jar')
+    //compile files('libs/commons-codec-1.10me.jar')
+    //compile files('libs/ftpserver-core-1.0.6.jar')
+    compile files('libs/gprintersdkv22.jar')
+    //compile files('libs/jackson-core-asl-1.9.2.jar')
+    //compile files('libs/jackson-mapper-asl-1.9.2.jar')
+    //compile files('libs/jcc-bate-0.7.3.jar')
+    //compile files('libs/ksoap2-android-assembly-2.5.2-jar-with-dependencies.jar')
+    //compile files('libs/log4j-1.2.14.jar')
+    //compile files('libs/mina-core-2.0.4.jar')
+    compile files('libs/picasso-2.5.2.jar')
+    compile files('libs/printersdkv5.2.jar')
+    //compile files('libs/slf4j-api-1.5.2.jar')
+    //compile files('libs/slf4j-log4j12-1.5.2.jar')
+    compile files('libs/sosopay-sdk-android.jar')
+    compile files('libs/sun.misc.BASE64Decoder.jar')
+    compile files('libs/xUtils-2.6.14.jar')
+    compile files('libs/zltd-decoder.jar')
+    compile files('libs/ZQPrinter.jar')
+    compile files('libs/hellocharts-library-1.5.8.jar')
+}

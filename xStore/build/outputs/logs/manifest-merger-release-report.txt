@@ -1,0 +1,817 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:2:1-223:12
+	package
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:5:5-33
+		INJECTED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-vector-drawable:24.2.1] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [XStore:baseApp:unspecified] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\XStore\baseApp\unspecified\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml
+supports-screens
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:11:5-17:40
+	android:largeScreens
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:13:9-36
+	android:smallScreens
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:16:9-37
+	android:normalScreens
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:14:9-37
+	android:xlargeScreens
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:17:9-37
+	android:resizeable
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:15:9-34
+	android:anyDensity
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:12:9-34
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:19:6-80
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:19:23-77
+uses-permission#android.permission.INTERNET
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:21:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:22:5-75
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:22:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:24:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:25:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:26:22-63
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:27:5-84
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:27:22-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:28:22-76
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:29:5-78
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:29:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:32:5-81
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:32:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:33:5-76
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:33:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:34:5-76
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:34:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:35:5-79
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:35:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:36:5-89
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:36:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:37:5-79
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:37:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:38:5-68
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:38:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:39:5-71
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:39:22-68
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:40:5-81
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:40:22-78
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:41:5-75
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:41:22-72
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:42:5-75
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:42:22-72
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:43:5-84
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:43:22-81
+uses-permission#android.permission.READ_LOGS
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:44:5-68
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:44:22-65
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:45:5-86
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:45:22-83
+uses-permission#android.permission.CAMERA
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:46:5-65
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:46:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:47:5-69
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:47:22-66
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:49:5-73
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:49:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:50:5-67
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:50:22-65
+uses-permission#android.hardware.usb.accessory
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:51:5-69
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:51:22-67
+uses-feature#android.hardware.camera
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:53:5-60
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:53:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:54:5-70
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:54:19-67
+application
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:56:5-221:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [XStore:baseApp:unspecified] F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\XStore\baseApp\unspecified\AndroidManifest.xml:11:5-12:19
+	android:label
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:60:9-41
+	android:allowBackup
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:58:9-35
+	android:icon
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:59:9-45
+	android:theme
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:61:9-40
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:57:9-42
+activity#com.app.xstore.UserLoginActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:62:9-71:20
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:65:13-49
+	android:label
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:64:13-45
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:63:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:66:13-70:29
+action#android.intent.action.MAIN
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:67:17-69
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:67:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:69:17-77
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:69:27-74
+activity#com.app.xstore.MainActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:72:9-101
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:72:62-98
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:72:19-61
+activity#com.app.xstore.ThemeChangeActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:73:9-108
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:73:69-105
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:73:19-68
+activity#com.app.xstore.HelpActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:74:9-101
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:74:62-98
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:74:19-61
+activity#com.app.xstore.UserInfoActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:75:9-105
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:75:66-102
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:75:19-65
+activity#com.app.xstore.RegisterActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:76:9-105
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:76:66-102
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:76:19-65
+activity#com.app.xstore.SettingActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:77:9-104
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:77:65-101
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:77:19-64
+activity#com.app.xstore.SettingPrinterActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:78:9-111
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:78:72-108
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:78:19-71
+activity#com.app.xstore.RemoteManagementActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:79:9-113
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:79:74-110
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:79:19-73
+activity#com.app.xstore.GoodsDetailActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:80:9-108
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:80:69-105
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:80:19-68
+activity#com.app.xstore.inventory.BoxDetailActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:82:9-116
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:82:77-113
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:82:19-76
+activity#com.app.xstore.inventory.BoxListActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:83:9-114
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:83:75-111
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:83:19-74
+activity#com.app.xstore.inventory.InventoryActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:84:9-116
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:84:77-113
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:84:19-76
+activity#com.app.xstore.inventory.CreateDocumentActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:85:9-121
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:85:82-118
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:85:19-81
+activity#com.app.xstore.inventory.DocumentDetailActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:86:9-121
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:86:82-118
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:86:19-81
+activity#com.app.xstore.inventory.DocumentListActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:87:9-119
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:87:80-116
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:87:19-79
+activity#com.app.xstore.inventory.DocumentListFromServerActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:88:9-129
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:88:90-126
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:88:19-89
+activity#com.app.xstore.inventory.DocumentUploadActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:89:9-121
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:89:82-118
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:89:19-81
+activity#com.app.xstore.inventory.SummaryERPActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:90:9-117
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:90:78-114
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:90:19-77
+activity#com.app.xstore.inventory.OfflineDocumentCreateActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:91:9-128
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:91:89-125
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:91:19-88
+activity#com.app.xstore.inventory.OfflineDocumentListActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:92:9-126
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:92:87-123
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:92:19-86
+activity#com.app.xstore.fitting.MagicBoxActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:94:9-113
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:94:74-110
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:94:19-73
+activity#com.app.xstore.fitting.FittingActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:95:9-112
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:95:73-109
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:95:19-72
+activity#com.app.xstore.fitting.FittingDetailActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:96:9-118
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:96:79-115
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:96:19-78
+activity#com.app.xstore.fitting.SimpleDocumentListActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:97:9-123
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:97:84-120
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:97:19-83
+activity#com.app.xstore.fitting.SimpleCreateDocumentActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:98:9-125
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:98:86-122
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:98:19-85
+activity#com.app.xstore.member.MemberActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:100:9-110
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:100:71-107
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:100:19-70
+activity#com.app.xstore.member.MemberDetailActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:101:9-116
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:101:77-113
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:101:19-76
+activity#com.app.xstore.member.MemberRegisterActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:102:9-118
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:102:79-115
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:102:19-78
+activity#com.app.xstore.member.MemberInfoActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:103:9-114
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:103:75-111
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:103:19-74
+activity#com.app.xstore.member.MemberLabelsActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:104:9-116
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:104:77-113
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:104:19-76
+activity#com.app.xstore.member.JiFenGuanLiActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:105:9-115
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:105:76-112
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:105:19-75
+activity#com.app.xstore.member.ZhuanShuDangAnActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:106:9-118
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:106:79-115
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:106:19-78
+activity#com.app.xstore.cashier.ShoppingCartActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:108:9-117
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:108:78-114
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:108:19-77
+activity#com.app.xstore.cashier.DiscountActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:109:9-113
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:109:74-110
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:109:19-73
+activity#com.app.xstore.cashier.PaymentTypeActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:110:9-116
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:110:77-113
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:110:19-76
+activity#com.app.xstore.cashier.PayZFBActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:111:9-111
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:111:72-108
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:111:19-71
+activity#com.app.xstore.cashier.PayWXActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:112:9-110
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:112:71-107
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:112:19-70
+activity#com.app.xstore.cashier.PayCrashActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:113:9-113
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:113:74-110
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:113:19-73
+activity#com.app.xstore.cashier.PayCreditActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:114:9-114
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:114:75-111
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:114:19-74
+activity#com.app.xstore.cashier.PaymentActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:115:9-112
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:115:73-109
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:115:19-72
+activity#com.app.xstore.cashier.TradeListActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:116:9-114
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:116:75-111
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:116:19-74
+activity#com.app.xstore.cashier.TradeLocalListActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:117:9-119
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:117:80-116
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:117:19-79
+activity#com.app.xstore.cashier.TradeDetailActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:118:9-116
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:118:77-113
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:118:19-76
+activity#com.app.xstore.cashier.TradeLocalDetailActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:119:9-121
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:119:82-118
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:119:19-81
+activity#com.app.xstore.cashier.ReceiptActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:120:9-112
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:120:73-109
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:120:19-72
+activity#com.app.xstore.space.RefreshListActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:122:9-114
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:122:75-111
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:122:19-74
+activity#com.app.xstore.space.SpaceActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:123:9-108
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:123:69-105
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:123:19-68
+activity#com.app.xstore.space.SpaceListActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:124:9-112
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:124:73-109
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:124:19-72
+activity#com.app.xstore.space.SpacePublishActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:125:9-115
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:125:76-112
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:125:19-75
+activity#com.app.xstore.space.SpaceDetailActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:126:9-114
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:126:75-111
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:126:19-74
+activity#com.app.xstore.space.SpacePublishResultActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:127:9-121
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:127:82-118
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:127:19-81
+activity#com.app.xstore.space.ImageActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:128:9-108
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:128:69-105
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:128:19-68
+activity#com.app.xstore.space.ImageGalleryActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:129:9-115
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:129:76-112
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:129:19-75
+activity#com.app.xstore.pandian.PanDianListActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:131:9-116
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:131:77-113
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:131:19-76
+activity#com.app.xstore.pandian.PanDianActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:132:9-112
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:132:73-109
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:132:19-72
+activity#com.app.xstore.pandian.ProductActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:133:9-112
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:133:73-109
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:133:19-72
+activity#com.app.xstore.pandian.ProductPanDianActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:134:9-119
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:134:80-116
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:134:19-79
+activity#com.app.xstore.pandian.custom.CustomPanDianDanListActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:136:9-132
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:136:93-129
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:136:19-92
+activity#com.app.xstore.pandian.custom.CustomPanDianActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:137:9-125
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:137:86-122
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:137:19-85
+activity#com.app.xstore.pandian.custom.CustomPanDianUploadActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:138:9-131
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:138:92-128
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:138:19-91
+activity#com.app.xstore.pandian.custom.CustomGoodsInfoActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:139:9-127
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:139:88-124
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:139:19-87
+activity#com.app.xstore.shangpindangan.ShangPinDangAnActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:140:9-126
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:140:87-123
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:140:19-86
+activity#com.app.xstore.shangpindangan.ProductListActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:141:9-123
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:141:84-120
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:141:19-83
+activity#com.app.xstore.shangpindangan.ProductQueryBySkuActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:142:9-129
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:142:90-126
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:142:19-89
+activity#com.app.xstore.shangpindangan.ProductQueryByParamsActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:143:9-132
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:143:93-129
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:143:19-92
+activity#com.app.xstore.shangpindangan.ProductQueryListBySkuActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:144:9-133
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:144:94-130
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:144:19-93
+activity#com.app.xstore.shangpindangan.ProductQueryListByParamsActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:145:9-136
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:145:97-133
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:145:19-96
+activity#com.app.xstore.shangpindangan.ProductDetailActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:146:9-125
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:146:86-122
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:146:19-85
+activity#com.app.xstore.shangpindangan.ProductLabelsManageActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:147:9-131
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:147:92-128
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:147:19-91
+activity#com.app.xstore.shangpindangan.ProductLabelsActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:148:9-125
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:148:86-122
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:148:19-85
+activity#com.app.xstore.mendiankucun.KuCunQueryBySkuActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:150:9-125
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:150:86-122
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:150:19-85
+activity#com.app.xstore.mendiankucun.MyFavoritesActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:151:9-121
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:151:82-118
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:151:19-81
+activity#com.app.xstore.mendiankucun.ProductKuCunListActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:152:9-126
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:152:87-123
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:152:19-86
+activity#com.app.xstore.mendiancaigouruku.CaiGouRuKuActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:154:9-125
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:154:86-122
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:154:19-85
+activity#com.app.xstore.mendiancaigouruku.CaiGouRuKuCreateActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:155:9-131
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:155:92-128
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:155:19-91
+activity#com.app.xstore.mendiancaigouruku.CaiGouRuKuCreateSecondActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:156:9-137
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:156:98-134
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:156:19-97
+activity#com.app.xstore.mendiancaigouruku.CaiGouRuKuDetailActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:157:9-131
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:157:92-128
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:157:19-91
+activity#com.app.xstore.mendiandiaochu.MenDianDiaoChuActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:158:9-126
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:158:87-123
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:158:19-86
+activity#com.app.xstore.mendiandiaochu.MenDianDiaoChuCreateActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:159:9-132
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:159:93-129
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:159:19-92
+activity#com.app.xstore.mendiandiaochu.MenDianDiaoChuCreateSecondActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:160:9-138
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:160:99-135
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:160:19-98
+activity#com.app.xstore.mendiandiaochu.FilterActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:161:9-118
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:161:79-115
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:161:19-78
+activity#com.app.xstore.mendiandiaoru.MenDianDiaoRuActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:162:9-124
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:162:85-121
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:162:19-84
+activity#com.app.xstore.mendiandiaoru.FilterActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:163:9-117
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:163:78-114
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:163:19-77
+activity#com.app.xstore.mendiandiaoru.MenDianDiaoRuDetailActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:164:9-130
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:164:91-127
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:164:19-90
+activity#com.app.printer.BluetoothDeviceListActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:167:9-117
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:167:78-114
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:167:19-77
+activity#com.app.xstore.caigoukanhuo.CaiGouKanHuoActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:169:9-122
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:169:83-119
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:169:19-82
+activity#com.app.xstore.caigoukanhuo.CaiGouKanHuoCreateActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:170:9-128
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:170:89-125
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:170:19-88
+activity#com.app.xstore.mine.BusinessSettingActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:171:9-117
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:171:78-114
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:171:19-77
+activity#com.app.xstore.mine.StoreSettingActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:172:9-114
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:172:75-111
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:172:19-74
+service#com.gprinter.service.GpPrintService
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:174:9-181:19
+	android:label
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:177:17-47
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:175:17-67
+intent-filter#com.gprinter.aidl.GpPrintService
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:178:13-180:29
+action#com.gprinter.aidl.GpPrintService
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:179:17-74
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:179:25-72
+service#com.gprinter.service.AllService
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:182:9-183:19
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:182:18-64
+activity#com.widget.imagepicker.ImageSelectorActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:185:9-189:46
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:188:13-49
+	android:configChanges
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:187:13-59
+	android:theme
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:189:13-44
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:186:13-72
+activity#com.widget.exfilepicker.ExFilePickerActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:191:9-194:73
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:193:13-49
+	android:windowSoftInputMode
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:194:13-70
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:192:13-72
+activity#com.zxing.activity.CaptureActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:196:9-202:20
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:199:13-49
+	android:windowSoftInputMode
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:201:13-60
+	android:configChanges
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:198:13-63
+	android:theme
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:200:13-71
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:197:13-62
+activity#com.widget.crash.DefaultErrorActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:204:9-207:52
+	android:process
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:206:13-46
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:207:13-49
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:205:13-65
+activity#com.widget.crash.CustomErrorActivity
+ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:208:9-211:52
+	android:process
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:210:13-46
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:211:13-49
+	android:name
+		ADDED from F:\AndroidStudioProjects\XStore\xStore\src\main\AndroidManifest.xml:209:13-64

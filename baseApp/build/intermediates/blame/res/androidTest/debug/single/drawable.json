@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\line_top_with_primary.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\drawable\\line_top_with_primary.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_btn.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\line_top.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\drawable\\line_top.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_btn_dialog.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_btn_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_picker_dialog.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_picker_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_btn_trans_primary_with_no_corner.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_btn_trans_primary_with_no_corner.xml"
+    }
+]

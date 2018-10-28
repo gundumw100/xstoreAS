@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zltd-decoder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/xStore/libs/zltd-decoder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

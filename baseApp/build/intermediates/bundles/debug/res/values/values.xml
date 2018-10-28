@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="book_loading_frame">#FFD83944</color>
+    <color name="book_loading_page">#ffffff</color>
+    <color name="gray">#FF666666</color>
+    <color name="grayDark">#FF303030</color>
+    <color name="grayDarkPressed">#FF444444</color>
+    <color name="grayLight">#FFC0C0C0</color>
+    <color name="grayMiddle">#FF999999</color>
+    <color name="grayWhite">#FFE8E8E8</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="primary">#FFD93945</color>
+    <color name="primaryDark">#FFFF3944</color>
+    <color name="primaryLight">#FF553944</color>
+    <color name="result_view">#b0000000</color>
+    <color name="scheme_gray">#FF909090</color>
+    <color name="scheme_green">#FF00FF00</color>
+    <color name="scheme_red">#FFFF0000</color>
+    <color name="scheme_yellow">#FFFFFF00</color>
+    <color name="secondary">#FFEFAC2A</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <declare-styleable name="FlexboxLayout"><attr name="flexDirection">
+            <enum name="row" value="0"/>
+            <enum name="row_reverse" value="1"/>
+            <enum name="column" value="2"/>
+            <enum name="column_reverse" value="3"/>
+        </attr><attr name="flexWrap">
+            <enum name="nowrap" value="0"/>
+            <enum name="wrap" value="1"/>
+            <enum name="wrap_reverse" value="2"/>
+        </attr><attr name="justifyContent">
+            <enum name="flex_start" value="0"/>
+            <enum name="flex_end" value="1"/>
+            <enum name="center" value="2"/>
+            <enum name="space_between" value="3"/>
+            <enum name="space_around" value="4"/>
+        </attr><attr name="alignItems">
+            <enum name="flex_start" value="0"/>
+            <enum name="flex_end" value="1"/>
+            <enum name="center" value="2"/>
+            <enum name="baseline" value="3"/>
+            <enum name="stretch" value="4"/>
+        </attr><attr name="alignContent">
+            <enum name="flex_start" value="0"/>
+            <enum name="flex_end" value="1"/>
+            <enum name="center" value="2"/>
+            <enum name="space_between" value="3"/>
+            <enum name="space_around" value="4"/>
+            <enum name="stretch" value="5"/>
+        </attr></declare-styleable>
+    <declare-styleable name="FlexboxLayout_Layout"><attr format="integer" name="layout_order"/><attr format="float" name="layout_flexGrow"/><attr format="float" name="layout_flexShrink"/><attr format="fraction" name="layout_flexBasisPercent"/><attr name="layout_alignSelf">
+            <enum name="auto" value="-1"/>
+            
+            <enum name="flex_start" value="0"/>
+            <enum name="flex_end" value="1"/>
+            <enum name="center" value="2"/>
+            <enum name="baseline" value="3"/>
+            <enum name="stretch" value="4"/>
+        </attr></declare-styleable>
+    <declare-styleable name="MaterialFavoriteButton"><attr format="boolean" name="mfb_animate_favorite"/><attr format="boolean" name="mfb_animate_unfavorite"/><attr format="integer" name="mfb_padding"/><attr format="integer" name="mfb_favorite_image"/><attr format="integer" name="mfb_not_favorite_image"/><attr format="integer" name="mfb_rotation_duration"/><attr format="integer" name="mfb_rotation_angle"/><attr format="integer" name="mfb_bounce_duration"/><attr format="enum" name="mfb_color">
+            <enum name="black" value="0"/>
+            <enum name="white" value="1"/>
+        </attr><attr format="enum" name="mfb_type">
+            <enum name="star" value="0"/>
+            <enum name="heart" value="1"/>
+        </attr></declare-styleable>
+    <declare-styleable name="NumberProgressBar"><attr format="integer" name="progress_current"/><attr format="integer" name="progress_max"/><attr format="color" name="progress_unreached_color"/><attr format="color" name="progress_reached_color"/><attr format="dimension" name="progress_reached_bar_height"/><attr format="dimension" name="progress_unreached_bar_height"/><attr format="dimension" name="progress_text_size"/><attr format="color" name="progress_text_color"/><attr format="dimension" name="progress_text_offset"/><attr format="enum" name="progress_text_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+        </attr></declare-styleable>
+    <declare-styleable name="RotateLoader"><attr format="dimension" name="loader_width"/><attr format="color" name="loader_color"/><attr format="integer" name="shadow_position"/></declare-styleable>
+    <declare-styleable name="RoundButton"><attr format="reference" name="image"/><attr format="color" name="bgcolor"/><attr format="string" name="text"/><attr format="float" name="radius"/><attr format="color" name="highlightColor"/><attr format="enum" name="highlightMode">
+            <enum name="none" value="0"/>
+            <enum name="image" value="1"/>
+            <enum name="background" value="2"/>
+        </attr></declare-styleable>
+    <declare-styleable name="SlideSwitch"><attr format="color" name="themeColor"/><attr format="boolean" name="isOpen"/><attr name="shape">
+            <enum name="rect" value="1"/>
+            <enum name="circle" value="2"/>
+        </attr></declare-styleable>
+    <declare-styleable name="SpinnerLoader"><attr format="color" name="point_color"/><attr format="boolean" name="isdynamic"/></declare-styleable>
+    <declare-styleable name="TabsLayout"><attr format="color" name="tabsIndicatorColor"/><attr format="color" name="tabsUnderlineColor"/><attr format="color" name="tabsDividerColor"/><attr format="dimension" name="tabsIndicatorHeight"/><attr format="dimension" name="tabsUnderlineHeight"/><attr format="dimension" name="tabsDividerPadding"/><attr format="dimension" name="tabsTabPaddingLeftRight"/><attr format="dimension" name="tabsScrollOffset"/><attr format="reference" name="tabsTabBackground"/><attr format="boolean" name="tabsShouldExpand"/><attr format="boolean" name="tabsTextAllCaps"/></declare-styleable>
+    <declare-styleable name="TagFlowLayout"><attr format="boolean" name="multi_suppout"/><attr format="integer" name="max_select"/></declare-styleable>
+    <declare-styleable name="TagGroup"><attr format="boolean" name="atg_isAppendMode"/><attr format="string" name="atg_inputHint"/><attr format="color" name="atg_borderColor"/><attr format="color" name="atg_textColor"/><attr format="color" name="atg_backgroundColor"/><attr format="color" name="atg_dashBorderColor"/><attr format="color" name="atg_inputHintColor"/><attr format="color" name="atg_inputTextColor"/><attr format="color" name="atg_checkedBorderColor"/><attr format="color" name="atg_checkedTextColor"/><attr format="color" name="atg_checkedMarkerColor"/><attr format="color" name="atg_checkedBackgroundColor"/><attr format="color" name="atg_pressedBackgroundColor"/><attr format="dimension" name="atg_borderStrokeWidth"/><attr format="dimension" name="atg_textSize"/><attr format="dimension" name="atg_horizontalSpacing"/><attr format="dimension" name="atg_verticalSpacing"/><attr format="dimension" name="atg_horizontalPadding"/><attr format="dimension" name="atg_verticalPadding"/></declare-styleable>
+    <declare-styleable name="TagGroup_Themes"><attr format="reference" name="tagGroupStyle"/></declare-styleable>
+    <declare-styleable name="Themes"><attr format="reference" name="numberProgressBarStyle"/></declare-styleable>
+    <declare-styleable name="WaveSwipeRefreshLayout"><attr format="color" name="waveColor"/></declare-styleable>
+    <declare-styleable name="WhorlLoader"><attr format="string" name="circle_colors"/><attr format="integer" name="circle_speed"/><attr name="parallax">
+            <enum name="fast" value="1"/>
+            <enum name="medium" value="0"/>
+            <enum name="slow" value="2"/>
+        </attr><attr format="float" name="sweepAngle"/><attr format="float" name="strokeWidth"/></declare-styleable>
+    <declare-styleable name="ZDepthShadowLayout"><attr format="enum" name="z_depth">
+            <enum name="z_depth0" value="0"/>
+            <enum name="z_depth1" value="1"/>
+            <enum name="z_depth2" value="2"/>
+            <enum name="z_depth3" value="3"/>
+            <enum name="z_depth4" value="4"/>
+            <enum name="z_depth5" value="5"/>
+        </attr><attr format="enum" name="z_depth_shape">
+            <enum name="rect" value="0"/>
+            <enum name="oval" value="1"/>
+        </attr><attr format="enum" name="z_depth_padding">
+            <enum name="z_depth0" value="0"/>
+            <enum name="z_depth1" value="1"/>
+            <enum name="z_depth2" value="2"/>
+            <enum name="z_depth3" value="3"/>
+            <enum name="z_depth4" value="4"/>
+            <enum name="z_depth5" value="5"/>
+        </attr><attr format="enum" name="z_depth_paddingLeft">
+            <enum name="z_depth0" value="0"/>
+            <enum name="z_depth1" value="1"/>
+            <enum name="z_depth2" value="2"/>
+            <enum name="z_depth3" value="3"/>
+            <enum name="z_depth4" value="4"/>
+            <enum name="z_depth5" value="5"/>
+        </attr><attr format="enum" name="z_depth_paddingTop">
+            <enum name="z_depth0" value="0"/>
+            <enum name="z_depth1" value="1"/>
+            <enum name="z_depth2" value="2"/>
+            <enum name="z_depth3" value="3"/>
+            <enum name="z_depth4" value="4"/>
+            <enum name="z_depth5" value="5"/>
+        </attr><attr format="enum" name="z_depth_paddingRight">
+            <enum name="z_depth0" value="0"/>
+            <enum name="z_depth1" value="1"/>
+            <enum name="z_depth2" value="2"/>
+            <enum name="z_depth3" value="3"/>
+            <enum name="z_depth4" value="4"/>
+            <enum name="z_depth5" value="5"/>
+        </attr><attr format="enum" name="z_depth_paddingBottom">
+            <enum name="z_depth0" value="0"/>
+            <enum name="z_depth1" value="1"/>
+            <enum name="z_depth2" value="2"/>
+            <enum name="z_depth3" value="3"/>
+            <enum name="z_depth4" value="4"/>
+            <enum name="z_depth5" value="5"/>
+        </attr><attr format="integer" name="z_depth_animDuration"/><attr format="boolean" name="z_depth_doAnim"/></declare-styleable>
+    <declare-styleable name="easy_flip_view"><attr format="boolean" name="flipOnTouch"/><attr format="integer" name="flipDuration"/><attr format="boolean" name="flipEnabled"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="book_border">10dp</dimen>
+    <dimen name="book_padding">15dp</dimen>
+    <dimen name="font_2xbig">20sp</dimen>
+    <dimen name="font_3xbig">22sp</dimen>
+    <dimen name="font_4xbig">24sp</dimen>
+    <dimen name="font_big">16sp</dimen>
+    <dimen name="font_middle">14sp</dimen>
+    <dimen name="font_small">12sp</dimen>
+    <dimen name="font_small_s">10sp</dimen>
+    <dimen name="font_small_ss">6sp</dimen>
+    <dimen name="font_xbig">18sp</dimen>
+    <dimen name="page_border">5dp</dimen>
+    <dimen name="space.large">32dp</dimen>
+    <dimen name="space.medium">16dp</dimen>
+    <dimen name="space.small">8dp</dimen>
+    <dimen name="space.very_small">4dp</dimen>
+    <item name="actionbar" type="id"/>
+    <item name="auto_focus" type="id"/>
+    <item name="btn_left" type="id"/>
+    <item name="btn_right" type="id"/>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="encode_failed" type="id"/>
+    <item name="encode_succeeded" type="id"/>
+    <item name="expandable" type="id"/>
+    <item name="expandable_toggle_button" type="id"/>
+    <item name="launch_product_query" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <item name="search_book_contents_failed" type="id"/>
+    <item name="search_book_contents_succeeded" type="id"/>
+    <item name="tv_title" type="id"/>
+    <plurals name="fuzzydatetime__days_ago">
+        <item quantity="one">%d 天前</item>
+        <item quantity="other">%d 天前</item>
+    </plurals>
+    <plurals name="fuzzydatetime__hours_ago">
+        <item quantity="one">%d 小时前</item>
+        <item quantity="other">%d 小时前</item>
+    </plurals>
+    <plurals name="fuzzydatetime__minutes_ago">
+        <item quantity="one">%d 分钟前</item>
+        <item quantity="other">%d 分钟前</item>
+    </plurals>
+    <plurals name="fuzzydatetime__months_ago">
+        <item quantity="one">%d 月前</item>
+        <item quantity="other">%d 月前</item>
+    </plurals>
+    <plurals name="fuzzydatetime__seconds_ago">
+        <item quantity="one">%d 秒前</item>
+        <item quantity="other">%d 秒前</item>
+    </plurals>
+    <plurals name="fuzzydatetime__weeks_ago">
+        <item quantity="one">%d 周前</item>
+        <item quantity="other">%d 周前</item>
+    </plurals>
+    <plurals name="fuzzydatetime__years_ago">
+        <item quantity="one">%d 年前</item>
+        <item quantity="other">%d 年前</item>
+    </plurals>
+    <string name="action_settings">Settings</string>
+    <string name="add_tag">Add Tag</string>
+    <string name="alert_check_connection">无可用网络连接，请检查网络设置！</string>
+    <string name="alert_data_empty">数据不能为空</string>
+    <string name="alert_need_save">您修改的内容尚未保存，是否需要保存？</string>
+    <string name="alert_no_content">您还有内容没有提交，是否真的需要返回上一页？</string>
+    <string name="alert_no_enough_memory">您的手机内存不够，程序需要退出重新登陆</string>
+    <string name="app_name">Base</string>
+    <string name="back">返回</string>
+    <string name="cancel">取消</string>
+    <string name="clear">清空</string>
+    <string name="close">关闭</string>
+    <string name="confirm">确定</string>
+    <string name="error_auth_failure">认证失败</string>
+    <string name="error_data">数据错误</string>
+    <string name="error_empty_utterance">无效的文本输入</string>
+    <string name="error_invalid_data">无效数据</string>
+    <string name="error_invalid_result">无有效的结果</string>
+    <string name="error_json">服务端Json数据异常，请重试</string>
+    <string name="error_network">请检查网络</string>
+    <string name="error_no_connection">没有链接</string>
+    <string name="error_no_match">无匹配结果</string>
+    <string name="error_no_network">网络未开启</string>
+    <string name="error_server">服务器错误</string>
+    <string name="error_timeout">链接超时</string>
+    <string name="error_unknown">未知错误</string>
+    <string name="exit">退出</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ignore">忽略</string>
+    <string name="list">列表</string>
+    <string name="map">地图</string>
+    <string name="no">否</string>
+    <string name="ok">确定</string>
+    <string name="prompt">提示</string>
+    <string name="save">保存</string>
+    <string name="search">查询</string>
+    <string name="send">发送</string>
+    <string name="setting">设置</string>
+    <string name="soft_update_cancel">取消</string>
+    <string name="soft_update_content">更新内容</string>
+    <string name="soft_update_immediately">更新</string>
+    <string name="soft_update_later">稍后更新</string>
+    <string name="soft_update_title">检测到新版本，立即更新吗?</string>
+    <string name="soft_updating">正在更新</string>
+    <string name="submit">提交</string>
+    <string name="yes">是</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--WaveSwipeRefreshLayout
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+    <style name="NumberProgressBar_Default">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="progress_max">100</item>
+        <item name="progress_current">0</item>
+        <item name="progress_unreached_color">#CCCCCC</item>
+        <item name="progress_reached_color">#3498DB</item>
+        <item name="progress_text_size">10sp</item>
+        <item name="progress_text_color">#3498DB</item>
+        <item name="progress_reached_bar_height">1.5dp</item>
+        <item name="progress_unreached_bar_height">0.75dp</item>
+    </style>
+    <style name="TagGroup">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="atg_isAppendMode">false</item>
+        <item name="atg_inputHint">@string/add_tag</item>
+        <item name="atg_borderColor">#49C120</item>
+        <item name="atg_textColor">#49C120</item>
+        <item name="atg_backgroundColor">#FFFFFF</item>
+        <item name="atg_dashBorderColor">#AAAAAA</item>
+        <item name="atg_inputHintColor">#80000000</item>
+        <item name="atg_inputTextColor">#DE000000</item>
+        <item name="atg_checkedBorderColor">#49C120</item>
+        <item name="atg_checkedTextColor">#FFFFFF</item>
+        <item name="atg_checkedMarkerColor">#FFFFFF</item>
+        <item name="atg_checkedBackgroundColor">#49C120</item>
+        <item name="atg_pressedBackgroundColor">#EDEDED</item>
+        <item name="atg_borderStrokeWidth">0.5dp</item>
+        <item name="atg_textSize">13sp</item>
+        <item name="atg_horizontalSpacing">8dp</item>
+        <item name="atg_verticalSpacing">4dp</item>
+        <item name="atg_horizontalPadding">12dp</item>
+        <item name="atg_verticalPadding">3dp</item>
+    </style>
+    <style name="TagGroup.Beauty_Red" parent="TagGroup">
+        <item name="atg_borderColor">#FF3D7F</item>
+        <item name="atg_textColor">#FF3D7F</item>
+        <item name="atg_checkedBorderColor">#FF3D7F</item>
+        <item name="atg_checkedBackgroundColor">#FF3D7F</item>
+    </style>
+    <style name="TagGroup.Beauty_Red.Inverse" parent="TagGroup">
+        <item name="atg_borderColor">#FF3D7F</item>
+        <item name="atg_textColor">#FFFFFF</item>
+        <item name="atg_backgroundColor">#FF3D7F</item>
+        <item name="atg_inputHintColor">#80FFFFFF</item>
+        <item name="atg_inputTextColor">#DEFFFFFF</item>
+        <item name="atg_checkedBorderColor">#FF3D7F</item>
+        <item name="atg_checkedTextColor">#FF3D7F</item>
+        <item name="atg_checkedMarkerColor">#FF3D7F</item>
+        <item name="atg_checkedBackgroundColor">#FFFFFF</item>
+        <item name="atg_pressedBackgroundColor">#FF99B1</item>
+    </style>
+    <style name="TagGroup.Large" parent="TagGroup">
+        <item name="atg_borderStrokeWidth">0.7dp</item>
+        <item name="atg_textSize">15sp</item>
+        <item name="atg_horizontalSpacing">9dp</item>
+        <item name="atg_verticalSpacing">5dp</item>
+        <item name="atg_horizontalPadding">14dp</item>
+        <item name="atg_verticalPadding">4dp</item>
+    </style>
+    <style name="TagGroup.Small" parent="TagGroup">
+        <item name="atg_textSize">10sp</item>
+        <item name="atg_horizontalSpacing">6dp</item>
+        <item name="atg_verticalSpacing">3dp</item>
+        <item name="atg_horizontalPadding">8dp</item>
+        <item name="atg_verticalPadding">2dp</item>
+    </style>
+    <style name="Theme_Dialog_From_Bottom" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@style/dialog_animation</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="Theme_Dialog_NoTitle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="Theme_TransparentDialog">
+      <item name="android:windowBackground">@android:color/transparent</item>
+      <item name="android:windowFrame">@null</item>
+      <item name="android:windowContentOverlay">@null</item>
+      <item name="android:windowIsFloating">true</item>
+      <item name="android:windowIsTranslucent">true</item>
+      <item name="android:windowNoTitle">true</item>
+      <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+      <item name="android:backgroundDimEnabled">false</item>
+	</style>
+    <style name="dialog_animation" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
+</resources>

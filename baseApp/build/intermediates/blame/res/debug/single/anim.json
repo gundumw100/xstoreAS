@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\anim\\feed_out.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\anim\\feed_out.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\anim\\frame_play.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\anim\\frame_play.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\anim\\animation_flip_out.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\anim\\animation_flip_out.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\anim\\progress.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\anim\\progress.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\anim\\animation_flip_in.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\anim\\animation_flip_in.xml"
+    }
+]

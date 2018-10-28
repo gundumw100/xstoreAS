@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ZQPrinter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/xStore/libs/ZQPrinter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

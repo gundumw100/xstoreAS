@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_982e3f0f2ac4b3bf5af5c828c3574c7f0287327b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\sosopay-sdk-android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0c169485e0db31e916a882992d5e7be55bc7ab4f">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\sosopay-sdk-android_7434209bb63e3d8e05347177e16c89f593fd76dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\XStore\baseApp\unspecified\jars\libs\zxing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d5ab89db945b0470f55ba66bd5d27a838a6c44f">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\zxing_3ef1fdc36ac03cb516d0b203c37352620873fbf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\internal_impl-24.2.1_8bf94bdc4648930c11c6dde26b77b0f9ec5ecc5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\XStore\baseApp\unspecified\jars\libs\httpmime-4.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c112297afe216aefe0afc3f9721623f478dbccab">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\httpmime-4.2.5_5d9126f5a75c61e6287dec9edf07528bfaefe76f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\hellocharts-library-1.5.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="700944cb3a8ce4fe543cfac1a9146a11cbf702dc">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\hellocharts-library-1.5.8_e09954cb702b4effdd829ae78e93b8abe50035e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\ZQPrinter.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="04bbe57322cbf05338369df73eabe9815679a40d">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\ZQPrinter_f084794e50e3030bf45c53f149aaf3cefb756067.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\zltd-decoder.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="512a68d5188c52eb3341b9193f57ffa96eb7ea2e">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\zltd-decoder_f2a181153e0863a95fa0ded63e66f1dacc79e5d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\picasso-2.5.2_a0facc6c9d84b7f3d511f773f5aa4be9b764fbc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_ac072b4269043219e2acdbbd121790c6cbb4e80d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\1.7.1\697e3a1fa094a983cd12f7f6f61abf9c6ea52e2\gson-1.7.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0697e3a1fa094a983cd12f7f6f61abf9c6ea52e2">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\gson-1.7.1_3f9516e53538b0f774e36196f233f6e3ba2812aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\XStore\baseApp\unspecified\jars\libs\commons-codec-1.10me.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44cc327d8ec05d3c595655e711c39feb32a4efc2">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\commons-codec-1.10me_ee98e4e88599e8bd562a6e6b49379b1748ed2181.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_5bd3279c783918dc1b5553ee0e1a77aa32b814e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\XStore\baseApp\unspecified\jars\libs\android-support-v7-recyclerview.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d47fa206ffbe921a73201ffbfbc368708a7a9f39">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\android-support-v7-recyclerview_9267bb51926f4be7d82aecf5801b4803a769bf46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_e9dac8c22c078db1bfae0c7d8a6b038147aeb5e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\gprintersdkv22.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b5a82421b65cfcdb45f3e3f9bd4b14126b2daec5">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\gprintersdkv22_9f00f071cf5de6472a63b4806edfc6cd06ce5959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.1_4f4f50fb6483575d13537f23677d938c1cc573e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_06b37be17c07d2729e013988429f242ecb8fad8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bc80cea6aa129da0519ecacacdd2ad14593dbc19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\internal_impl-24.2.1_06b37be17c07d2729e013988429f242ecb8fad8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\XStore\baseApp\unspecified\jars\libs\litepal-1.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="47cc8f8cf5e5085c00d3d542226ed9b6c3ab7a50">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\litepal-1.4.1_08c33ae1e44811e113f09537be84fbb23112c07e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\XStore\baseApp\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9276f3fcdb11f8ce8663af736a9dda6047e4e98d">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\XStore-baseApp-unspecified_ca9b3f75cb503281c21ba66dc64b9800110f7d78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8cfed2614d596aad06d92e3ba73ff7ddb74f2798">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\instant-run_de84a8c2de9023c4e28d4a49427f83b9de1fe0a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\printersdkv5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cb337dfbb903c5d5b7ca1aa415f5e32485858f83">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\printersdkv5.2_a8f734f48045b759c3b3788d7da5935ec31df0b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.1_5bd3279c783918dc1b5553ee0e1a77aa32b814e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\XStore\baseApp\unspecified\jars\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ac3ed724e1265a3db0a6681a68b83559879b8a4">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\volley_a1376873faf97829748904f9302eb0c4e113e8eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\XStore\baseApp\unspecified\jars\libs\commons-codec-1.10me.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44cc327d8ec05d3c595655e711c39feb32a4efc2">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\commons-codec-1.10me_ee98e4e88599e8bd562a6e6b49379b1748ed2181.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\internal_impl-24.2.1_9e191e507497b2d122b749356ed2412c1845b465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_a45405e82f9eb237681c9cf66b4eb54d7b88c9f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_98841772043287ac65d7de08806c2197768a4cc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\XStore\baseApp\unspecified\jars\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_dd983a9e2f004e75df0ba929980b4a256c72a1cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\sun.misc.BASE64Decoder.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="acd93e3727886196f9b8434279ff445ba8611186">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\sun.misc.BASE64Decoder_dee8998406184f76c8c23163680b48971fb01eea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\CDFPSKAndroid.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b426d081a9fefbb24ac0d784ca76fad4c5078634">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\CDFPSKAndroid_71488c882a18a3aa8a74d9b6023a2ef247033865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_f195065d04a20006b919ce62d3fd871c1d3f9950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\xUtils-2.6.14_1570ee71d669be2ab5038ba28acb84259050f270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\bluetooth.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ff8f9c55ff40367f1d677150d9fbe006417ca63e">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\bluetooth_765f26ab303a7bf7178e812a9de3cf2f7105099d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\BarcodeScanWrapper.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffe7516bf36fa1444afbda8b77c62affd89b4865">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\BarcodeScanWrapper_54706d4e06a0f17d773f473174a708578b845512.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\ZQPrinter.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="04bbe57322cbf05338369df73eabe9815679a40d">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\ZQPrinter_f084794e50e3030bf45c53f149aaf3cefb756067.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8bf94bdc4648930c11c6dde26b77b0f9ec5ecc5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_0f47970fcfdc514dd53a07b582d285c52dac58c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\sosopay-sdk-android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0c169485e0db31e916a882992d5e7be55bc7ab4f">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\sosopay-sdk-android_7434209bb63e3d8e05347177e16c89f593fd76dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\1.7.1\697e3a1fa094a983cd12f7f6f61abf9c6ea52e2\gson-1.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0697e3a1fa094a983cd12f7f6f61abf9c6ea52e2">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\gson-1.7.1_3f9516e53538b0f774e36196f233f6e3ba2812aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\XStore\baseApp\unspecified\jars\libs\zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d5ab89db945b0470f55ba66bd5d27a838a6c44f">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\zxing_3ef1fdc36ac03cb516d0b203c37352620873fbf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="876164517a428e4fda221504cd357906d8575243">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\instant-run-bootstrap_684bc84ea907a43001fd14f2465bd6cc8a2341a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\hellocharts-library-1.5.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="700944cb3a8ce4fe543cfac1a9146a11cbf702dc">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\hellocharts-library-1.5.8_e09954cb702b4effdd829ae78e93b8abe50035e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_4f4f50fb6483575d13537f23677d938c1cc573e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\zltd-decoder.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="512a68d5188c52eb3341b9193f57ffa96eb7ea2e">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\zltd-decoder_f2a181153e0863a95fa0ded63e66f1dacc79e5d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_dc44cdd81f27224b8a62d1650701d4d3d1d00ad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.1_fa62ac71932b805d781f57d1f094cad864779dc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.1_982e3f0f2ac4b3bf5af5c828c3574c7f0287327b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\XStore\baseApp\unspecified\jars\libs\litepal-1.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="47cc8f8cf5e5085c00d3d542226ed9b6c3ab7a50">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\litepal-1.4.1_08c33ae1e44811e113f09537be84fbb23112c07e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.1_e9dac8c22c078db1bfae0c7d8a6b038147aeb5e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\gprintersdkv22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b5a82421b65cfcdb45f3e3f9bd4b14126b2daec5">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\gprintersdkv22_9f00f071cf5de6472a63b4806edfc6cd06ce5959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\XStore\baseApp\unspecified\jars\libs\android-support-v7-recyclerview.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d47fa206ffbe921a73201ffbfbc368708a7a9f39">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\android-support-v7-recyclerview_9267bb51926f4be7d82aecf5801b4803a769bf46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\BarcodeScanWrapper.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffe7516bf36fa1444afbda8b77c62affd89b4865">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\BarcodeScanWrapper_54706d4e06a0f17d773f473174a708578b845512.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_fa62ac71932b805d781f57d1f094cad864779dc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\XStore\baseApp\unspecified\jars\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ac3ed724e1265a3db0a6681a68b83559879b8a4">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\volley_a1376873faf97829748904f9302eb0c4e113e8eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.1_dc44cdd81f27224b8a62d1650701d4d3d1d00ad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\xUtils-2.6.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\xUtils-2.6.14_1570ee71d669be2ab5038ba28acb84259050f270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\support-annotations-24.2.1_a45405e82f9eb237681c9cf66b4eb54d7b88c9f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\internal_impl-24.2.1_98841772043287ac65d7de08806c2197768a4cc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9e191e507497b2d122b749356ed2412c1845b465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\XStore\baseApp\unspecified\jars\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\nineoldandroids-2.4.0_dd983a9e2f004e75df0ba929980b4a256c72a1cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\picasso-2.5.2_a0facc6c9d84b7f3d511f773f5aa4be9b764fbc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.1_ac072b4269043219e2acdbbd121790c6cbb4e80d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\XStore\baseApp\unspecified\jars\libs\httpmime-4.2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c112297afe216aefe0afc3f9721623f478dbccab">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\httpmime-4.2.5_5d9126f5a75c61e6287dec9edf07528bfaefe76f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\printersdkv5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cb337dfbb903c5d5b7ca1aa415f5e32485858f83">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\printersdkv5.2_a8f734f48045b759c3b3788d7da5935ec31df0b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\CDFPSKAndroid.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b426d081a9fefbb24ac0d784ca76fad4c5078634">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\CDFPSKAndroid_71488c882a18a3aa8a74d9b6023a2ef247033865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\sun.misc.BASE64Decoder.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="acd93e3727886196f9b8434279ff445ba8611186">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\debug\sun.misc.BASE64Decoder_dee8998406184f76c8c23163680b48971fb01eea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\libs\bluetooth.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ff8f9c55ff40367f1d677150d9fbe006417ca63e">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\bluetooth_765f26ab303a7bf7178e812a9de3cf2f7105099d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.1_0f47970fcfdc514dd53a07b582d285c52dac58c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.1_f195065d04a20006b919ce62d3fd871c1d3f9950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\AndroidStudioProjects\XStore\xStore\build\intermediates\pre-dexed\release\internal_impl-24.2.1_bc80cea6aa129da0519ecacacdd2ad14593dbc19.jar" />
+    </item>
+
+</items>

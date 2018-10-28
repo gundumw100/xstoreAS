@@ -1,0 +1,129 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From BaseApp:
+* ic_launcher-web.png
+* key\
+* key\readme.txt
+* proguard-project.txt
+From XStore:
+* .gitignore
+* README.md
+* ic_launcher-web.png
+* key\
+* key\XStore.apk
+* key\git.txt
+* key\key.keystore
+* key\key_bak.keystore
+* key\readme.txt
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:20.0.0
+gson-1.7.1.jar => com.google.code.gson:gson:1.7.1
+
+Potentially Missing Dependency:
+-------------------------------
+When we replaced the following .jar files with a Gradle dependency, we
+inferred the dependency version number from the filename. This
+specific version may not actually be available from the repository.
+If you get a build error stating that the dependency is missing, edit
+the version number to for example "+" to pick up the latest version
+instead. (This may require you to update your code if the library APIs
+have changed.)
+
+gson-1.7.1.jar => version 1.7.1 in com.google.code.gson:gson:1.7.1
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In BaseApp:
+* AndroidManifest.xml => baseApp\src\main\AndroidManifest.xml
+* assets\ => baseApp\src\main\assets
+* libs\android-support-v7-recyclerview.jar => baseApp\libs\android-support-v7-recyclerview.jar
+* libs\commons-codec-1.10me.jar => baseApp\libs\commons-codec-1.10me.jar
+* libs\httpmime-4.2.5.jar => baseApp\libs\httpmime-4.2.5.jar
+* libs\litepal-1.4.1.jar => baseApp\libs\litepal-1.4.1.jar
+* libs\nineoldandroids-2.4.0.jar => baseApp\libs\nineoldandroids-2.4.0.jar
+* libs\volley.jar => baseApp\libs\volley.jar
+* libs\zxing.jar => baseApp\libs\zxing.jar
+* lint.xml => baseApp\lint.xml
+* res\ => baseApp\src\main\res\
+* src\ => baseApp\src\main\java\
+In XStore:
+* AndroidManifest.xml => xStore\src\main\AndroidManifest.xml
+* assets\ => xStore\src\main\assets\
+* libs\arm64-v8a\libgpequipment.so => xStore\src\main\jniLibs\arm64-v8a\libgpequipment.so
+* libs\arm64-v8a\liblocSDK6a.so => xStore\src\main\jniLibs\arm64-v8a\liblocSDK6a.so
+* libs\armeabi-v7a\libgpequipment.so => xStore\src\main\jniLibs\armeabi-v7a\libgpequipment.so
+* libs\armeabi-v7a\liblocSDK6a.so => xStore\src\main\jniLibs\armeabi-v7a\liblocSDK6a.so
+* libs\armeabi\libgpequipment.so => xStore\src\main\jniLibs\armeabi\libgpequipment.so
+* libs\armeabi\liblocSDK6a.so => xStore\src\main\jniLibs\armeabi\liblocSDK6a.so
+* libs\BaiduLBS_Android.jar => xStore\libs\BaiduLBS_Android.jar
+* libs\BarcodeScanWrapper.jar => xStore\libs\BarcodeScanWrapper.jar
+* libs\bluetooth.jar => xStore\libs\bluetooth.jar
+* libs\CDFPSKAndroid.jar => xStore\libs\CDFPSKAndroid.jar
+* libs\commons-codec-1.10me.jar => xStore\libs\commons-codec-1.10me.jar
+* libs\ftpserver-core-1.0.6.jar => xStore\libs\ftpserver-core-1.0.6.jar
+* libs\gprintersdkv22.jar => xStore\libs\gprintersdkv22.jar
+* libs\jackson-core-asl-1.9.2.jar => xStore\libs\jackson-core-asl-1.9.2.jar
+* libs\jackson-mapper-asl-1.9.2.jar => xStore\libs\jackson-mapper-asl-1.9.2.jar
+* libs\jcc-bate-0.7.3.jar => xStore\libs\jcc-bate-0.7.3.jar
+* libs\ksoap2-android-assembly-2.5.2-jar-with-dependencies.jar => xStore\libs\ksoap2-android-assembly-2.5.2-jar-with-dependencies.jar
+* libs\log4j-1.2.14.jar => xStore\libs\log4j-1.2.14.jar
+* libs\mina-core-2.0.4.jar => xStore\libs\mina-core-2.0.4.jar
+* libs\picasso-2.5.2.jar => xStore\libs\picasso-2.5.2.jar
+* libs\printersdkv5.2.jar => xStore\libs\printersdkv5.2.jar
+* libs\slf4j-api-1.5.2.jar => xStore\libs\slf4j-api-1.5.2.jar
+* libs\slf4j-log4j12-1.5.2.jar => xStore\libs\slf4j-log4j12-1.5.2.jar
+* libs\sosopay-sdk-android.jar => xStore\libs\sosopay-sdk-android.jar
+* libs\sun.misc.BASE64Decoder.jar => xStore\libs\sun.misc.BASE64Decoder.jar
+* libs\x86\liblocSDK6a.so => xStore\src\main\jniLibs\x86\liblocSDK6a.so
+* libs\x86_64\liblocSDK6a.so => xStore\src\main\jniLibs\x86_64\liblocSDK6a.so
+* libs\xUtils-2.6.14.jar => xStore\libs\xUtils-2.6.14.jar
+* libs\zltd-decoder.jar => xStore\libs\zltd-decoder.jar
+* libs\ZQPrinter.jar => xStore\libs\ZQPrinter.jar
+* res\ => xStore\src\main\res\
+* src\ => xStore\src\main\java\
+* src\com\gprinter\aidl\GpService.aidl => xStore\src\main\aidl\com\gprinter\aidl\GpService.aidl
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

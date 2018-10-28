@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sosopay-sdk-android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/xStore/libs/sosopay-sdk-android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

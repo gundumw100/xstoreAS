@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\progress.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\anim\\progress.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\back_exit.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\anim\\back_exit.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\animation_flip_out.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\anim\\animation_flip_out.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_bottom.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_left.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\anim_exit.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\anim\\anim_exit.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\frame_play.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\anim\\frame_play.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\shake.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\back_enter.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\anim\\back_enter.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_left.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_bottom.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\animation_flip_in.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\anim\\animation_flip_in.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\back_by_position.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\anim\\back_by_position.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\anim_enter.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\anim\\anim_enter.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\push_bottom_out.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\rotate.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\push_bottom_in.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\feed_out.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\anim\\feed_out.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\cycle_7.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\XStore\\baseApp\\unspecified\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\xStore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_top.xml"
+    }
+]

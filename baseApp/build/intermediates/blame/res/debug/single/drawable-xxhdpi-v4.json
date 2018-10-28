@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\close.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\drawable-xxhdpi\\close.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_favorite_border_white_24dp.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\drawable-xxhdpi\\ic_favorite_border_white_24dp.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_favorite_white_24dp.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\drawable-xxhdpi\\ic_favorite_white_24dp.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_star_border_black_24dp.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\drawable-xxhdpi\\ic_star_border_black_24dp.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\crash_helper_error_image.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\drawable-xxhdpi\\crash_helper_error_image.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_star_white_24dp.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\drawable-xxhdpi\\ic_star_white_24dp.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_star_black_24dp.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\drawable-xxhdpi\\ic_star_black_24dp.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_star_border_white_24dp.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\drawable-xxhdpi\\ic_star_border_white_24dp.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_favorite_black_24dp.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\drawable-xxhdpi\\ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_favorite_border_black_24dp.png",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\drawable-xxhdpi\\ic_favorite_border_black_24dp.png"
+    }
+]

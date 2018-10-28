@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bluetooth">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/xStore/libs/bluetooth.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

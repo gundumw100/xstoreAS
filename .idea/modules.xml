@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/XStore.iml" filepath="$PROJECT_DIR$/XStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseApp/baseApp.iml" filepath="$PROJECT_DIR$/baseApp/baseApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xStore/xStore.iml" filepath="$PROJECT_DIR$/xStore/xStore.iml" />
+    </modules>
+  </component>
+</project>

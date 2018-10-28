@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\release\\layout\\dialog_user_birthday.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\layout\\dialog_user_birthday.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\release\\layout\\actionbar_comm.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\layout\\actionbar_comm.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\release\\layout\\fragment_list_comm.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\layout\\fragment_list_comm.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\release\\layout\\newton_cradle_loader.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\layout\\newton_cradle_loader.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\release\\layout\\textview_list_search_param.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\layout\\textview_list_search_param.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\release\\layout\\dialog_time_picker.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\layout\\dialog_time_picker.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\release\\layout\\item_widget_toggle_switch.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\layout\\item_widget_toggle_switch.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\release\\layout\\custom_progress_dialog.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\layout\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\release\\layout\\dialog_date_picker.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\layout\\dialog_date_picker.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\release\\layout\\load_more_footer.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\layout\\load_more_footer.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\release\\layout\\widget_toggle_switch.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\layout\\widget_toggle_switch.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\release\\layout\\book_loader.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\layout\\book_loader.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\release\\layout\\dialog_comm_title.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\layout\\dialog_comm_title.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\release\\layout\\camera.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\layout\\camera.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\release\\layout\\textview_list_total_info.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\layout\\textview_list_total_info.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\release\\layout\\softupdate_progress.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\src\\main\\res\\layout\\softupdate_progress.xml"
+    }
+]

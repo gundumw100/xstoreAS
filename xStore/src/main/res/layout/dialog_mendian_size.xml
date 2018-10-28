@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/dialog_width"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_btn_blue"
+        android:padding="10dp"
+        android:text="尺码管理"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/font_middle" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="16dp" >
+
+        <EditText
+            android:id="@+id/et_group"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/bg_edittext"
+            android:hint="请输入尺码分组名称"
+            android:maxLength="6"
+            android:padding="8dp"
+            android:singleLine="true"
+            android:textSize="@dimen/font_middle" />
+
+        <TextView
+            android:id="@+id/btn_addGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_btn_blue"
+            android:padding="8dp"
+            android:text="添加分组"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/font_middle" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:cacheColorHint="@android:color/transparent" />
+
+</LinearLayout>

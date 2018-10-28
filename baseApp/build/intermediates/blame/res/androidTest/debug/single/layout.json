@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\book_loader.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\layout\\book_loader.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\widget_toggle_switch.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\layout\\widget_toggle_switch.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\textview_list_total_info.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\layout\\textview_list_total_info.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\camera.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\layout\\camera.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_date_picker.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_date_picker.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\actionbar_comm.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\layout\\actionbar_comm.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\load_more_footer.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\layout\\load_more_footer.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\item_widget_toggle_switch.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\layout\\item_widget_toggle_switch.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\custom_progress_dialog.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\layout\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_comm_title.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_comm_title.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\fragment_list_comm.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\layout\\fragment_list_comm.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\newton_cradle_loader.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\layout\\newton_cradle_loader.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_user_birthday.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_user_birthday.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\textview_list_search_param.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\layout\\textview_list_search_param.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_time_picker.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_time_picker.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\softupdate_progress.xml",
+        "source": "F:\\AndroidStudioProjects\\XStore\\baseApp\\build\\intermediates\\bundles\\debug\\res\\layout\\softupdate_progress.xml"
+    }
+]
